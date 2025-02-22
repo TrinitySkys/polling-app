@@ -1,0 +1,13 @@
+<% include layout.ejs %>
+<main>
+    <h2>Create a New Poll</h2>
+    <form action="/polling-app/polls/create" method="POST">
+        <label for="question">Poll Question:</label>
+        <input type="text" name="question" required>
+        
+        <label for="options">Options (comma-separated):</label>
+        <input type="text" name="options" required>
+
+        <button type="submit">Create Poll</button>
+    </form>
+</main>

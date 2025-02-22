@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard | Power2We</title>
+    <link rel="stylesheet" href="/polling-app/public/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome, <%= user ? user.username : "Guest" %></h1>
+        <nav>
+            <a href="/polling-app/logout">Logout</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Admin Dashboard</h2>
+
+        <!-- Poll Management Section -->
+<section>
+    <h3>Manage Polls</h3>
+    <a href="/polling-app/polls/create">Create New Poll</a>
+
+    <% if (typeof polls !== 'undefined' && polls.length > 0) { %>
+        <ul>
+            <% polls.forEach(poll => { %>
+                <li>
+                    <strong><%= poll.title %></strong> 
+                    <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+                    <a href="/polling-app/polls/delete/<%= poll.id %>" onclick="return confirm('Are you sure?')">Delete</a>
+                </li>
+            <% }); %>
+        </ul>
+    <% } else { %>
+        <p>No polls found. <a href="/polling-app/polls/create">Create a new poll</a></p>
+    <% } %>
+</section>
+
+        <!-- User Management Section -->
+        <section>
+            <h3>Manage Users</h3>
+
+            <% if (users && users.length > 0) { %>
+                <ul>
+                    <% users.forEach(user => { %>
+                        <li>
+                            <%= user.username %> 
+                            <% if (user.role !== 'admin') { %>
+                                | <a href="/polling-app/users/delete/<%= user.id %>" onclick="return confirm('Are you sure?')">Delete</a>
+                            <% } %>
+                        </li>
+                    <% }); %>
+                </ul>
+            <% } else { %>
+                <p>No users found.</p>
+            <% } %>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Power2We Polling App</p>
+    </footer>
+</body>
+</html>

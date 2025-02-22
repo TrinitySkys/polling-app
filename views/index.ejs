@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polls | Power2We</title>
+    <link rel="stylesheet" href="/polling-app/public/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Polls</h1>
+        <a href="/polling-app/login">Admin Login</a>
+    </header>
+
+    <main>
+        <% if (polls.length > 0) { %>
+            <ul>
+                <% polls.forEach(poll => { %>
+                    <li>
+                        <a href="/polling-app/polls/<%= poll.id %>"><%= poll.question %></a>
+                    </li>
+                <% }) %>
+            </ul>
+        <% } else { %>
+            <p>No polls available.</p>
+        <% } %>
+    </main>
+</body>
+</html>

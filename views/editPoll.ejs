@@ -1,0 +1,13 @@
+<% include layout.ejs %>
+<main>
+    <h2>Edit Poll</h2>
+    <form action="/polling-app/polls/edit/<%= poll.id %>" method="POST">
+        <label for="question">Poll Question:</label>
+        <input type="text" name="question" value="<%= poll.question %>" required>
+        
+        <label for="options">Options (comma-separated):</label>
+        <input type="text" name="options" value="<%= poll.options.join(', ') %>" required>
+
+        <button type="submit">Update Poll</button>
+    </form>
+</main>
