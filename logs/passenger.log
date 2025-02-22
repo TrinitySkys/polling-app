@@ -1,0 +1,956 @@
+App 3781197 output: node:internal/modules/cjs/loader:1143
+App 3781197 output:   throw err;
+App 3781197 output:   ^
+App 3781197 output: Error: Cannot find module 'express-session'
+App 3781197 output: Require stack:
+App 3781197 output: - /home/power2we/public_html/polling-app/server.js
+App 3781197 output: - /usr/share/passenger/helper-scripts/node-loader.js
+App 3781197 output:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+App 3781197 output:     at Module._load (node:internal/modules/cjs/loader:981:27)
+App 3781197 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3781197 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3781197 output:     at require (node:internal/modules/helpers:177:18)
+App 3781197 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/server.js:3:17)
+App 3781197 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3781197 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3781197 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3781197 output:     at Module._load (node:internal/modules/cjs/loader:1019:12) {
+App 3781197 output:   code: 'MODULE_NOT_FOUND',
+App 3781197 output:   requireStack: [
+App 3781197 output:     '/home/power2we/public_html/polling-app/server.js',
+App 3781197 output:     '/usr/share/passenger/helper-scripts/node-loader.js'
+App 3781197 output:   ]
+App 3781197 output: }
+App 3781197 output: Node.js v18.20.6
+App 3818769 output: node:internal/modules/cjs/loader:1143
+App 3818769 output:   throw err;
+App 3818769 output:   ^
+App 3818769 output: Error: Cannot find module 'express-session'
+App 3818769 output: Require stack:
+App 3818769 output: - /home/power2we/public_html/polling-app/server.js
+App 3818769 output: - /usr/share/passenger/helper-scripts/node-loader.js
+App 3818769 output:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+App 3818769 output:     at Module._load (node:internal/modules/cjs/loader:981:27)
+App 3818769 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3818769 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3818769 output:     at require (node:internal/modules/helpers:177:18)
+App 3818769 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/server.js:3:17)
+App 3818769 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3818769 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3818769 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3818769 output:     at Module._load (node:internal/modules/cjs/loader:1019:12) {
+App 3818769 output:   code: 'MODULE_NOT_FOUND',
+App 3818769 output:   requireStack: [
+App 3818769 output:     '/home/power2we/public_html/polling-app/server.js',
+App 3818769 output:     '/usr/share/passenger/helper-scripts/node-loader.js'
+App 3818769 output:   ]
+App 3818769 output: }
+App 3818769 output: Node.js v18.20.6
+App 3818930 output: node:internal/modules/cjs/loader:1143
+App 3818930 output:   throw err;
+App 3818930 output:   ^
+App 3818930 output: Error: Cannot find module 'express-session'
+App 3818930 output: Require stack:
+App 3818930 output: - /home/power2we/public_html/polling-app/server.js
+App 3818930 output: - /usr/share/passenger/helper-scripts/node-loader.js
+App 3818930 output:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+App 3818930 output:     at Module._load (node:internal/modules/cjs/loader:981:27)
+App 3818930 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3818930 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3818930 output:     at require (node:internal/modules/helpers:177:18)
+App 3818930 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/server.js:3:17)
+App 3818930 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3818930 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3818930 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3818930 output:     at Module._load (node:internal/modules/cjs/loader:1019:12) {
+App 3818930 output:   code: 'MODULE_NOT_FOUND',
+App 3818930 output:   requireStack: [
+App 3818930 output:     '/home/power2we/public_html/polling-app/server.js',
+App 3818930 output:     '/usr/share/passenger/helper-scripts/node-loader.js'
+App 3818930 output:   ]
+App 3818930 output: }
+App 3818930 output: Node.js v18.20.6
+App 3819210 output: node:internal/modules/cjs/loader:1143
+App 3819210 output:   throw err;
+App 3819210 output:   ^
+App 3819210 output: Error: Cannot find module 'express-session'
+App 3819210 output: Require stack:
+App 3819210 output: - /home/power2we/public_html/polling-app/server.js
+App 3819210 output: - /usr/share/passenger/helper-scripts/node-loader.js
+App 3819210 output:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+App 3819210 output:     at Module._load (node:internal/modules/cjs/loader:981:27)
+App 3819210 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3819210 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3819210 output:     at require (node:internal/modules/helpers:177:18)
+App 3819210 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/server.js:3:17)
+App 3819210 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3819210 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3819210 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3819210 output:     at Module._load (node:internal/modules/cjs/loader:1019:12) {
+App 3819210 output:   code: 'MODULE_NOT_FOUND',
+App 3819210 output:   requireStack: [
+App 3819210 output:     '/home/power2we/public_html/polling-app/server.js',
+App 3819210 output:     '/usr/share/passenger/helper-scripts/node-loader.js'
+App 3819210 output:   ]
+App 3819210 output: }
+App 3819210 output: Node.js v18.20.6
+App 3823173 output: node:internal/modules/cjs/loader:1143
+App 3823173 output:   throw err;
+App 3823173 output:   ^
+App 3823173 output: Error: Cannot find module 'express-session'
+App 3823173 output: Require stack:
+App 3823173 output: - /home/power2we/public_html/polling-app/server.js
+App 3823173 output: - /usr/share/passenger/helper-scripts/node-loader.js
+App 3823173 output:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+App 3823173 output:     at Module._load (node:internal/modules/cjs/loader:981:27)
+App 3823173 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3823173 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3823173 output:     at require (node:internal/modules/helpers:177:18)
+App 3823173 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/server.js:3:17)
+App 3823173 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3823173 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3823173 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3823173 output:     at Module._load (node:internal/modules/cjs/loader:1019:12) {
+App 3823173 output:   code: 'MODULE_NOT_FOUND',
+App 3823173 output:   requireStack: [
+App 3823173 output:     '/home/power2we/public_html/polling-app/server.js',
+App 3823173 output:     '/usr/share/passenger/helper-scripts/node-loader.js'
+App 3823173 output:   ]
+App 3823173 output: }
+App 3823173 output: Node.js v18.20.6
+App 3823430 output: node:internal/modules/cjs/loader:1143
+App 3823430 output:   throw err;
+App 3823430 output:   ^
+App 3823430 output: Error: Cannot find module 'express-session'
+App 3823430 output: Require stack:
+App 3823430 output: - /home/power2we/public_html/polling-app/server.js
+App 3823430 output: - /usr/share/passenger/helper-scripts/node-loader.js
+App 3823430 output:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+App 3823430 output:     at Module._load (node:internal/modules/cjs/loader:981:27)
+App 3823430 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3823430 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3823430 output:     at require (node:internal/modules/helpers:177:18)
+App 3823430 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/server.js:3:17)
+App 3823430 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3823430 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3823430 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3823430 output:     at Module._load (node:internal/modules/cjs/loader:1019:12) {
+App 3823430 output:   code: 'MODULE_NOT_FOUND',
+App 3823430 output:   requireStack: [
+App 3823430 output:     '/home/power2we/public_html/polling-app/server.js',
+App 3823430 output:     '/usr/share/passenger/helper-scripts/node-loader.js'
+App 3823430 output:   ]
+App 3823430 output: }
+App 3823430 output: Node.js v18.20.6
+App 3823718 output: node:internal/modules/cjs/loader:1143
+App 3823718 output:   throw err;
+App 3823718 output:   ^
+App 3823718 output: Error: Cannot find module 'express-session'
+App 3823718 output: Require stack:
+App 3823718 output: - /home/power2we/public_html/polling-app/server.js
+App 3823718 output: - /usr/share/passenger/helper-scripts/node-loader.js
+App 3823718 output:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+App 3823718 output:     at Module._load (node:internal/modules/cjs/loader:981:27)
+App 3823718 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3823718 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3823718 output:     at require (node:internal/modules/helpers:177:18)
+App 3823718 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/server.js:3:17)
+App 3823718 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3823718 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3823718 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3823718 output:     at Module._load (node:internal/modules/cjs/loader:1019:12) {
+App 3823718 output:   code: 'MODULE_NOT_FOUND',
+App 3823718 output:   requireStack: [
+App 3823718 output:     '/home/power2we/public_html/polling-app/server.js',
+App 3823718 output:     '/usr/share/passenger/helper-scripts/node-loader.js'
+App 3823718 output:   ]
+App 3823718 output: }
+App 3823718 output: Node.js v18.20.6
+App 3823972 output: node:internal/modules/cjs/loader:1143
+App 3823972 output:   throw err;
+App 3823972 output:   ^
+App 3823972 output: Error: Cannot find module 'express-session'
+App 3823972 output: Require stack:
+App 3823972 output: - /home/power2we/public_html/polling-app/server.js
+App 3823972 output: - /usr/share/passenger/helper-scripts/node-loader.js
+App 3823972 output:     at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+App 3823972 output:     at Module._load (node:internal/modules/cjs/loader:981:27)
+App 3823972 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3823972 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3823972 output:     at require (node:internal/modules/helpers:177:18)
+App 3823972 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/server.js:3:17)
+App 3823972 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3823972 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3823972 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3823972 output:     at Module._load (node:internal/modules/cjs/loader:1019:12) {
+App 3823972 output:   code: 'MODULE_NOT_FOUND',
+App 3823972 output:   requireStack: [
+App 3823972 output:     '/home/power2we/public_html/polling-app/server.js',
+App 3823972 output:     '/usr/share/passenger/helper-scripts/node-loader.js'
+App 3823972 output:   ]
+App 3823972 output: }
+App 3823972 output: Node.js v18.20.6
+App 3834378 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 3834378 output:         throw new Error(msg);
+App 3834378 output:         ^
+App 3834378 output: Error: Route.get() requires a callback function but got a [object Undefined]
+App 3834378 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 3834378 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 3834378 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/authRoutes.js:5:8)
+App 3834378 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3834378 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3834378 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3834378 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 3834378 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3834378 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3834378 output:     at require (node:internal/modules/helpers:177:18)
+App 3834378 output: Node.js v18.20.6
+App 3834565 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 3834565 output:         throw new Error(msg);
+App 3834565 output:         ^
+App 3834565 output: Error: Route.get() requires a callback function but got a [object Undefined]
+App 3834565 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 3834565 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 3834565 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/authRoutes.js:5:8)
+App 3834565 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3834565 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3834565 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3834565 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 3834565 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3834565 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3834565 output:     at require (node:internal/modules/helpers:177:18)
+App 3834565 output: Node.js v18.20.6
+App 3835104 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 3835104 output:         throw new Error(msg);
+App 3835104 output:         ^
+App 3835104 output: Error: Route.get() requires a callback function but got a [object Undefined]
+App 3835104 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 3835104 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 3835104 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/authRoutes.js:5:8)
+App 3835104 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3835104 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3835104 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3835104 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 3835104 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3835104 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3835104 output:     at require (node:internal/modules/helpers:177:18)
+App 3835104 output: Node.js v18.20.6
+App 3836726 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 3836726 output:         throw new Error(msg);
+App 3836726 output:         ^
+App 3836726 output: Error: Route.get() requires a callback function but got a [object Undefined]
+App 3836726 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 3836726 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 3836726 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/authRoutes.js:5:8)
+App 3836726 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3836726 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3836726 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3836726 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 3836726 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3836726 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3836726 output:     at require (node:internal/modules/helpers:177:18)
+App 3836726 output: Node.js v18.20.6
+App 3837040 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 3837040 output:         throw new Error(msg);
+App 3837040 output:         ^
+App 3837040 output: Error: Route.get() requires a callback function but got a [object Undefined]
+App 3837040 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 3837040 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 3837040 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/authRoutes.js:5:8)
+App 3837040 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 3837040 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 3837040 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 3837040 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 3837040 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 3837040 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 3837040 output:     at require (node:internal/modules/helpers:177:18)
+App 3837040 output: Node.js v18.20.6
+App 3878556 output: Warning: connect.session() MemoryStore is not
+App 3878556 output: designed for a production environment, as it will leak
+App 3878556 output: memory, and will not scale past a single process.
+App 3878556 output: Database connected
+App 3878556 output: Server running on port 3000
+App 3928659 output: ✅ Database connected successfully
+App 3928659 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3930554 output: ✅ Database connected successfully
+App 3930554 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3958160 output: ✅ Database connected successfully
+App 3958160 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3958160 output: SyntaxError: Unexpected identifier in /home/power2we/public_html/polling-app/views/login.ejs while compiling ejs
+App 3958160 output: If the above error is not helpful, you may want to try EJS-Lint:
+App 3958160 output: https://github.com/RyanZim/EJS-Lint
+App 3958160 output: Or, if you meant to create an async function, pass `async: true` as an option.
+App 3958160 output:     at new Function (<anonymous>)
+App 3958160 output:     at Template.compile (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:673:12)
+App 3958160 output:     at Object.compile (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:398:16)
+App 3958160 output:     at handleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:235:18)
+App 3958160 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:16)
+App 3958160 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 3958160 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 3958160 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 3958160 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 3958160 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 3958160 output: SyntaxError: Unexpected identifier in /home/power2we/public_html/polling-app/views/login.ejs while compiling ejs
+App 3958160 output: If the above error is not helpful, you may want to try EJS-Lint:
+App 3958160 output: https://github.com/RyanZim/EJS-Lint
+App 3958160 output: Or, if you meant to create an async function, pass `async: true` as an option.
+App 3958160 output:     at new Function (<anonymous>)
+App 3958160 output:     at Template.compile (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:673:12)
+App 3958160 output:     at Object.compile (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:398:16)
+App 3958160 output:     at handleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:235:18)
+App 3958160 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:16)
+App 3958160 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 3958160 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 3958160 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 3958160 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 3958160 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 3958160 output: SyntaxError: Unexpected identifier in /home/power2we/public_html/polling-app/views/login.ejs while compiling ejs
+App 3958160 output: If the above error is not helpful, you may want to try EJS-Lint:
+App 3958160 output: https://github.com/RyanZim/EJS-Lint
+App 3958160 output: Or, if you meant to create an async function, pass `async: true` as an option.
+App 3958160 output:     at new Function (<anonymous>)
+App 3958160 output:     at Template.compile (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:673:12)
+App 3958160 output:     at Object.compile (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:398:16)
+App 3958160 output:     at handleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:235:18)
+App 3958160 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:16)
+App 3958160 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 3958160 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 3958160 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 3958160 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 3958160 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 3962610 output: ✅ Database connected successfully
+App 3962610 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3962610 output: /home/power2we/public_html/polling-app/controllers/authController.js:10
+App 3962610 output:     const { username, password } = req.body;
+App 3962610 output:             ^
+App 3962610 output: TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+App 3962610 output:     at postLogin (/home/power2we/public_html/polling-app/controllers/authController.js:10:13)
+App 3962610 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3962610 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:149:13)
+App 3962610 output:     at Route.dispatch (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:119:3)
+App 3962610 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3962610 output:     at /home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:284:15
+App 3962610 output:     at Function.process_params (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:346:12)
+App 3962610 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:280:10)
+App 3962610 output:     at Function.handle (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:175:3)
+App 3962610 output:     at router (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:47:12)
+App 3962610 output: Node.js v18.20.6
+App 3967788 output: ✅ Database connected successfully
+App 3967788 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3968392 output: ✅ Database connected successfully
+App 3968392 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3968392 output: /home/power2we/public_html/polling-app/controllers/authController.js:10
+App 3968392 output:     const { username, password } = req.body;
+App 3968392 output:             ^
+App 3968392 output: TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+App 3968392 output:     at postLogin (/home/power2we/public_html/polling-app/controllers/authController.js:10:13)
+App 3968392 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3968392 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:149:13)
+App 3968392 output:     at Route.dispatch (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:119:3)
+App 3968392 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3968392 output:     at /home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:284:15
+App 3968392 output:     at Function.process_params (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:346:12)
+App 3968392 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:280:10)
+App 3968392 output:     at Function.handle (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:175:3)
+App 3968392 output:     at router (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:47:12)
+App 3968392 output: Node.js v18.20.6
+App 3968757 output: ✅ Database connected successfully
+App 3968757 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3968757 output: /home/power2we/public_html/polling-app/controllers/authController.js:10
+App 3968757 output:     const { username, password } = req.body;
+App 3968757 output:             ^
+App 3968757 output: TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+App 3968757 output:     at postLogin (/home/power2we/public_html/polling-app/controllers/authController.js:10:13)
+App 3968757 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3968757 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:149:13)
+App 3968757 output:     at Route.dispatch (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:119:3)
+App 3968757 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3968757 output:     at /home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:284:15
+App 3968757 output:     at Function.process_params (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:346:12)
+App 3968757 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:280:10)
+App 3968757 output:     at Function.handle (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:175:3)
+App 3968757 output:     at router (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:47:12)
+App 3968757 output: Node.js v18.20.6
+App 3969923 output: ✅ Database connected successfully
+App 3969923 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3969923 output: /home/power2we/public_html/polling-app/controllers/authController.js:10
+App 3969923 output:     const { username, password } = req.body;
+App 3969923 output:             ^
+App 3969923 output: TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+App 3969923 output:     at postLogin (/home/power2we/public_html/polling-app/controllers/authController.js:10:13)
+App 3969923 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3969923 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:149:13)
+App 3969923 output:     at Route.dispatch (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:119:3)
+App 3969923 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3969923 output:     at /home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:284:15
+App 3969923 output:     at Function.process_params (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:346:12)
+App 3969923 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:280:10)
+App 3969923 output:     at Function.handle (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:175:3)
+App 3969923 output:     at router (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:47:12)
+App 3969923 output: Node.js v18.20.6
+App 3971773 output: ✅ Database connected successfully
+App 3971773 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3971773 output: /home/power2we/public_html/polling-app/controllers/authController.js:10
+App 3971773 output:     const { username, password } = req.body;
+App 3971773 output:             ^
+App 3971773 output: TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+App 3971773 output:     at postLogin (/home/power2we/public_html/polling-app/controllers/authController.js:10:13)
+App 3971773 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3971773 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:149:13)
+App 3971773 output:     at Route.dispatch (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:119:3)
+App 3971773 output:     at Layer.handle [as handle_request] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/layer.js:95:5)
+App 3971773 output:     at /home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:284:15
+App 3971773 output:     at Function.process_params (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:346:12)
+App 3971773 output:     at next (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:280:10)
+App 3971773 output:     at Function.handle (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:175:3)
+App 3971773 output:     at router (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:47:12)
+App 3971773 output: Node.js v18.20.6
+App 3994817 output: ✅ Database connected successfully
+App 3994817 output: 🚀 Server running at: https://power2we.com/polling-app
+App 3996971 output: ✅ Database connected successfully
+App 3996971 output: 🚀 Server running at: https://power2we.com/polling-app
+App 4009671 output: ✅ Database connected successfully
+App 4009671 output: 🚀 Server running at: https://power2we.com/polling-app
+App 4043193 output: ✅ Database connected successfully
+App 4043193 output: 🚀 Server running at: https://power2we.com/polling-app
+App 4043193 output: Received req.body: { username: 'admin', password: 'Brooklyn7!8' }
+App 4043193 output: ❌ Incorrect password for user: admin
+App 4043193 output: Received req.body: { username: 'admin', password: 'Br00klyn718$$' }
+App 4043193 output: ❌ Incorrect password for user: admin
+App 4043193 output: Received req.body: { username: 'admin', password: 'Br00klyn718$$' }
+App 4043193 output: ❌ Incorrect password for user: admin
+App 4043193 output: Received req.body: { username: 'admin', password: 'Br00klyn718$$' }
+App 4043193 output: ❌ Incorrect password for user: admin
+App 4043193 output: Received req.body: { username: 'admin', password: 'Br00klyn718$$' }
+App 4043193 output: ❌ Incorrect password for user: admin
+App 4084466 output: ✅ Database connected successfully
+App 4084466 output: 🚀 Server running at: https://power2we.com/polling-app
+App 4084466 output: Received req.body: { username: 'admin', password: 'Br00klyn718$$' }
+App 4084466 output: ❌ Incorrect password for user: admin
+App 4084466 output: Received req.body: { username: 'admin', password: 'password123' }
+App 4084466 output: ✅ Login successful: admin
+App 4084466 output: ✅ Dashboard accessed by: admin
+App 4084466 output: SyntaxError: Unexpected identifier in /home/power2we/public_html/polling-app/views/dashboard.ejs while compiling ejs
+App 4084466 output: If the above error is not helpful, you may want to try EJS-Lint:
+App 4084466 output: https://github.com/RyanZim/EJS-Lint
+App 4084466 output: Or, if you meant to create an async function, pass `async: true` as an option.
+App 4084466 output:     at new Function (<anonymous>)
+App 4084466 output:     at Template.compile (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:673:12)
+App 4084466 output:     at Object.compile (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:398:16)
+App 4084466 output:     at handleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:235:18)
+App 4084466 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:16)
+App 4084466 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4084466 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4084466 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4084466 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4084466 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4084466 output: Received req.body: { username: 'admin', password: 'password123' }
+App 4084466 output: ✅ Login successful: admin
+App 4084466 output: ✅ Dashboard accessed by: admin
+App 4084466 output: ✅ Dashboard accessed by: admin
+App 4084466 output: ✅ User logged out
+App 4084466 output: Received req.body: { username: 'admin', password: 'password123' }
+App 4084466 output: ✅ Login successful: admin
+App 4084466 output: ✅ Dashboard accessed by: admin
+App 4115946 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 4115946 output:         throw new Error(msg);
+App 4115946 output:         ^
+App 4115946 output: Error: Route.get() requires a callback function but got a [object Object]
+App 4115946 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 4115946 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 4115946 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/pollRoutes.js:8:8)
+App 4115946 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 4115946 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 4115946 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 4115946 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 4115946 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 4115946 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 4115946 output:     at require (node:internal/modules/helpers:177:18)
+App 4115946 output: Node.js v18.20.6
+App 4118159 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 4118159 output:         throw new Error(msg);
+App 4118159 output:         ^
+App 4118159 output: Error: Route.get() requires a callback function but got a [object Object]
+App 4118159 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 4118159 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 4118159 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/pollRoutes.js:8:8)
+App 4118159 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 4118159 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 4118159 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 4118159 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 4118159 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 4118159 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 4118159 output:     at require (node:internal/modules/helpers:177:18)
+App 4118159 output: Node.js v18.20.6
+App 4120699 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 4120699 output:         throw new Error(msg);
+App 4120699 output:         ^
+App 4120699 output: Error: Route.get() requires a callback function but got a [object Object]
+App 4120699 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 4120699 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 4120699 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/pollRoutes.js:8:8)
+App 4120699 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 4120699 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 4120699 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 4120699 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 4120699 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 4120699 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 4120699 output:     at require (node:internal/modules/helpers:177:18)
+App 4120699 output: Node.js v18.20.6
+App 4121797 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 4121797 output:         throw new Error(msg);
+App 4121797 output:         ^
+App 4121797 output: Error: Route.get() requires a callback function but got a [object Object]
+App 4121797 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 4121797 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 4121797 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/pollRoutes.js:8:8)
+App 4121797 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 4121797 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 4121797 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 4121797 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 4121797 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 4121797 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 4121797 output:     at require (node:internal/modules/helpers:177:18)
+App 4121797 output: Node.js v18.20.6
+App 4124721 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 4124721 output:         throw new Error(msg);
+App 4124721 output:         ^
+App 4124721 output: Error: Route.get() requires a callback function but got a [object Object]
+App 4124721 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 4124721 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 4124721 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/pollRoutes.js:8:8)
+App 4124721 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 4124721 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 4124721 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 4124721 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 4124721 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 4124721 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 4124721 output:     at require (node:internal/modules/helpers:177:18)
+App 4124721 output: Node.js v18.20.6
+App 4125521 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 4125521 output:         throw new Error(msg);
+App 4125521 output:         ^
+App 4125521 output: Error: Route.get() requires a callback function but got a [object Object]
+App 4125521 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 4125521 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 4125521 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/pollRoutes.js:8:8)
+App 4125521 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 4125521 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 4125521 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 4125521 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 4125521 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 4125521 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 4125521 output:     at require (node:internal/modules/helpers:177:18)
+App 4125521 output: Node.js v18.20.6
+App 4125776 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 4125776 output:         throw new Error(msg);
+App 4125776 output:         ^
+App 4125776 output: Error: Route.get() requires a callback function but got a [object Object]
+App 4125776 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 4125776 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 4125776 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/pollRoutes.js:8:8)
+App 4125776 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 4125776 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 4125776 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 4125776 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 4125776 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 4125776 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 4125776 output:     at require (node:internal/modules/helpers:177:18)
+App 4125776 output: Node.js v18.20.6
+App 4125943 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 4125943 output:         throw new Error(msg);
+App 4125943 output:         ^
+App 4125943 output: Error: Route.get() requires a callback function but got a [object Object]
+App 4125943 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 4125943 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 4125943 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/pollRoutes.js:8:8)
+App 4125943 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 4125943 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 4125943 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 4125943 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 4125943 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 4125943 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 4125943 output:     at require (node:internal/modules/helpers:177:18)
+App 4125943 output: Node.js v18.20.6
+App 4126097 output: /home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216
+App 4126097 output:         throw new Error(msg);
+App 4126097 output:         ^
+App 4126097 output: Error: Route.get() requires a callback function but got a [object Object]
+App 4126097 output:     at Route.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/route.js:216:15)
+App 4126097 output:     at proto.<computed> [as get] (/home/power2we/public_html/polling-app/node_modules/express/lib/router/index.js:521:19)
+App 4126097 output:     at Object.<anonymous> (/home/power2we/public_html/polling-app/routes/pollRoutes.js:8:8)
+App 4126097 output:     at Module._compile (node:internal/modules/cjs/loader:1364:14)
+App 4126097 output:     at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+App 4126097 output:     at Module.load (node:internal/modules/cjs/loader:1203:32)
+App 4126097 output:     at Module._load (node:internal/modules/cjs/loader:1019:12)
+App 4126097 output:     at Module.require (node:internal/modules/cjs/loader:1231:19)
+App 4126097 output:     at Module.require (/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 4126097 output:     at require (node:internal/modules/helpers:177:18)
+App 4126097 output: Node.js v18.20.6
+App 4145173 output: ✅ Database connected successfully
+App 4145173 output: 🚀 Server running at: https://power2we.com/polling-app
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'Brooklyn7!8' }
+App 4145173 output: ❌ Incorrect password for user: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'Brooklyn7!8' }
+App 4145173 output: ❌ Incorrect password for user: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: 📥 Received req.body: { username: 'admijn', password: 'password123' }
+App 4145173 output: ❌ User not found: admijn
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: 📥 Received req.body: { username: 'admin', password: 'password123' }
+App 4145173 output: ✅ Login successful: admin
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+App 4145173 output: ✅ Dashboard accessed by: admin
+App 4145173 output: ReferenceError: /home/power2we/public_html/polling-app/views/dashboard.ejs:25
+App 4145173 output:     23|             <a href="/polling-app/polls/create">Create New Poll</a>
+App 4145173 output:     24|             <ul>
+App 4145173 output:  >> 25|                 <% polls.forEach(poll => { %>
+App 4145173 output:     26|                     <li>
+App 4145173 output:     27|                         <strong><%= poll.title %></strong> 
+App 4145173 output:     28|                         <a href="/polling-app/polls/edit/<%= poll.id %>">Edit</a> |
+App 4145173 output: polls is not defined
+App 4145173 output:     at eval ("/home/power2we/public_html/polling-app/views/dashboard.ejs":15:8)
+App 4145173 output:     at dashboard (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:703:17)
+App 4145173 output:     at tryHandleCache (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:274:36)
+App 4145173 output:     at exports.renderFile [as engine] (/home/power2we/public_html/polling-app/node_modules/ejs/lib/ejs.js:491:10)
+App 4145173 output:     at View.render (/home/power2we/public_html/polling-app/node_modules/express/lib/view.js:135:8)
+App 4145173 output:     at tryRender (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:657:10)
+App 4145173 output:     at Function.render (/home/power2we/public_html/polling-app/node_modules/express/lib/application.js:609:3)
+App 4145173 output:     at ServerResponse.render (/home/power2we/public_html/polling-app/node_modules/express/lib/response.js:1049:7)
+App 4145173 output:     at getDashboard (/home/power2we/public_html/polling-app/controllers/authController.js:64:11)
+App 4145173 output:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
